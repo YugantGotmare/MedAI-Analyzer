@@ -1,0 +1,1 @@
+api_key = 'GOOGLE_GEMINI_API_KEY' # visit makersuite google
