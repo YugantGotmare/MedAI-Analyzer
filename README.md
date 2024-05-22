@@ -28,5 +28,7 @@ google-generativeai
 
 **images/**: Directory for storing example images or assets.
 
+## 
+
 # Disclaimer
 The analysis provided by MedAI Analyzer is intended to assist healthcare professionals and should not be used as the sole basis for medical decision-making. Always consult with a qualified medical professional before making any healthcare decisions.
