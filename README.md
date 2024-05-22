@@ -28,7 +28,9 @@ google-generativeai
 
 **images/**: Directory for storing example images or assets.
 
-## 
+## Demo video
+
+https://github.com/YugantGotmare/MedAI-Analyzer/assets/101650315/c9045735-29b4-47d7-9c41-31fe3908e609
 
 # Disclaimer
 The analysis provided by MedAI Analyzer is intended to assist healthcare professionals and should not be used as the sole basis for medical decision-making. Always consult with a qualified medical professional before making any healthcare decisions.
